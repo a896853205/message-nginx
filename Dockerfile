@@ -1,3 +1,3 @@
 FROM nginx
-COPY /nginxconfig.io-127.0.0.1/ /etc/nginx/
+COPY /nginxconfig.io-ericlonglong.top.conf/ /etc/nginx/
 EXPOSE 80
